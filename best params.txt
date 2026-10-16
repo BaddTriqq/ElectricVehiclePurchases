@@ -1,0 +1,305 @@
+
+====================
+Experiment 1/50
+{'iterations': 1000, 'learning_rate': 0.1, 'depth': 8, 'l2_leaf_reg': 10, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 128, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9410156226171763
+OOF AUC: 0.941007084587898
+
+====================
+Experiment 2/50
+{'iterations': 500, 'learning_rate': 0.1, 'depth': 8, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9404698043531965
+OOF AUC: 0.9404640476979397
+
+====================
+Experiment 3/50
+{'iterations': 500, 'learning_rate': 0.03, 'depth': 7, 'l2_leaf_reg': 1, 'bagging_temperature': 3, 'random_strength': 1, 'border_count': 64, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9403117635152768
+OOF AUC: 0.9403015671237641
+
+====================
+Experiment 4/50
+{'iterations': 500, 'learning_rate': 0.1, 'depth': 4, 'l2_leaf_reg': 10, 'bagging_temperature': 3, 'random_strength': 2, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9406392725422954
+OOF AUC: 0.9406321962068798
+
+====================
+Experiment 5/50
+{'iterations': 1500, 'learning_rate': 0.01, 'depth': 6, 'l2_leaf_reg': 5, 'bagging_temperature': 5, 'random_strength': 0.5, 'border_count': 254, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9408038580545645
+OOF AUC: 0.9407951089387574
+
+====================
+Experiment 6/50
+{'iterations': 1000, 'learning_rate': 0.01, 'depth': 8, 'l2_leaf_reg': 5, 'bagging_temperature': 3, 'random_strength': 1, 'border_count': 32, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9398389088596926
+OOF AUC: 0.9398288055355227
+
+====================
+Experiment 7/50
+{'iterations': 1000, 'learning_rate': 0.05, 'depth': 6, 'l2_leaf_reg': 1, 'bagging_temperature': 3, 'random_strength': 0.5, 'border_count': 128, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9412098681571874
+OOF AUC: 0.9412030046598556
+
+====================
+Experiment 8/50
+{'iterations': 1500, 'learning_rate': 0.05, 'depth': 4, 'l2_leaf_reg': 10, 'bagging_temperature': 3, 'random_strength': 1, 'border_count': 32, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9403152773814718
+OOF AUC: 0.9403098448941424
+
+====================
+Experiment 9/50
+{'iterations': 1500, 'learning_rate': 0.05, 'depth': 7, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 1, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 0.9}
+Mean fold AUC: 0.9405949794295714
+OOF AUC: 0.9405877100929038
+
+====================
+Experiment 10/50
+{'iterations': 2000, 'learning_rate': 0.05, 'depth': 4, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 2, 'border_count': 254, 'auto_class_weights': None, 'rsm': 1.0}
+Mean fold AUC: 0.9417641020897417
+OOF AUC: 0.9417576833370949
+
+====================
+Experiment 11/50
+{'iterations': 500, 'learning_rate': 0.05, 'depth': 6, 'l2_leaf_reg': 10, 'bagging_temperature': 0, 'random_strength': 0.5, 'border_count': 128, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9409319954820605
+OOF AUC: 0.9409223157964808
+
+====================
+Experiment 12/50
+{'iterations': 500, 'learning_rate': 0.1, 'depth': 6, 'l2_leaf_reg': 10, 'bagging_temperature': 5, 'random_strength': 0.5, 'border_count': 32, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9402388449136418
+OOF AUC: 0.9402300349230559
+
+====================
+Experiment 13/50
+{'iterations': 1000, 'learning_rate': 0.05, 'depth': 7, 'l2_leaf_reg': 10, 'bagging_temperature': 1, 'random_strength': 2, 'border_count': 32, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9402182505165906
+OOF AUC: 0.9402106731346402
+
+====================
+Experiment 14/50
+{'iterations': 2000, 'learning_rate': 0.1, 'depth': 5, 'l2_leaf_reg': 3, 'bagging_temperature': 0, 'random_strength': 2, 'border_count': 254, 'auto_class_weights': 'Balanced', 'rsm': 0.9}
+Mean fold AUC: 0.9417740055870544
+OOF AUC: 0.9417668604507389
+
+====================
+Experiment 15/50
+{'iterations': 500, 'learning_rate': 0.01, 'depth': 8, 'l2_leaf_reg': 5, 'bagging_temperature': 3, 'random_strength': 0.5, 'border_count': 32, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9397065727398368
+OOF AUC: 0.9396942503443912
+
+====================
+Experiment 16/50
+{'iterations': 2000, 'learning_rate': 0.01, 'depth': 8, 'l2_leaf_reg': 5, 'bagging_temperature': 3, 'random_strength': 2, 'border_count': 64, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9404033168691805
+OOF AUC: 0.9403944650169173
+
+====================
+Experiment 17/50
+{'iterations': 500, 'learning_rate': 0.01, 'depth': 5, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.939513532439135
+OOF AUC: 0.9394999759768139
+
+====================
+Experiment 18/50
+{'iterations': 1000, 'learning_rate': 0.01, 'depth': 8, 'l2_leaf_reg': 10, 'bagging_temperature': 3, 'random_strength': 0.5, 'border_count': 64, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9402433877119127
+OOF AUC: 0.9402324987277849
+
+====================
+Experiment 19/50
+{'iterations': 1500, 'learning_rate': 0.03, 'depth': 8, 'l2_leaf_reg': 1, 'bagging_temperature': 3, 'random_strength': 0.5, 'border_count': 128, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9410315543018765
+OOF AUC: 0.9410238489303991
+
+====================
+Experiment 20/50
+{'iterations': 1500, 'learning_rate': 0.05, 'depth': 7, 'l2_leaf_reg': 10, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9406024941490729
+OOF AUC: 0.9405938906524762
+
+====================
+Experiment 21/50
+{'iterations': 500, 'learning_rate': 0.05, 'depth': 6, 'l2_leaf_reg': 5, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 32, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.940205553199809
+OOF AUC: 0.9401974363189464
+
+====================
+Experiment 22/50
+{'iterations': 1000, 'learning_rate': 0.01, 'depth': 6, 'l2_leaf_reg': 3, 'bagging_temperature': 0, 'random_strength': 0.5, 'border_count': 32, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9399382415025563
+OOF AUC: 0.9399282845161397
+
+====================
+Experiment 23/50
+{'iterations': 1000, 'learning_rate': 0.03, 'depth': 8, 'l2_leaf_reg': 1, 'bagging_temperature': 0, 'random_strength': 0.5, 'border_count': 254, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9413668823380558
+OOF AUC: 0.9413596017324516
+
+====================
+Experiment 24/50
+{'iterations': 1500, 'learning_rate': 0.1, 'depth': 5, 'l2_leaf_reg': 5, 'bagging_temperature': 5, 'random_strength': 2, 'border_count': 32, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9402755620415284
+OOF AUC: 0.9402673723352835
+
+====================
+Experiment 25/50
+{'iterations': 2000, 'learning_rate': 0.01, 'depth': 5, 'l2_leaf_reg': 1, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 128, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9408130010172734
+OOF AUC: 0.9408043205449539
+
+====================
+Experiment 26/50
+{'iterations': 1000, 'learning_rate': 0.1, 'depth': 5, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 2, 'border_count': 64, 'auto_class_weights': None, 'rsm': 1.0}
+Mean fold AUC: 0.9406749687758035
+OOF AUC: 0.9406679307239724
+
+====================
+Experiment 27/50
+{'iterations': 1500, 'learning_rate': 0.03, 'depth': 5, 'l2_leaf_reg': 5, 'bagging_temperature': 1, 'random_strength': 1, 'border_count': 128, 'auto_class_weights': 'Balanced', 'rsm': 0.9}
+Mean fold AUC: 0.9411968772708805
+OOF AUC: 0.9411897235841502
+
+====================
+Experiment 28/50
+{'iterations': 500, 'learning_rate': 0.03, 'depth': 8, 'l2_leaf_reg': 1, 'bagging_temperature': 5, 'random_strength': 2, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 0.9}
+Mean fold AUC: 0.9400709606212141
+OOF AUC: 0.9400628537649646
+
+====================
+Experiment 29/50
+{'iterations': 500, 'learning_rate': 0.1, 'depth': 5, 'l2_leaf_reg': 1, 'bagging_temperature': 0, 'random_strength': 2, 'border_count': 64, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9406879175406424
+OOF AUC: 0.9406796548247899
+
+====================
+Experiment 30/50
+{'iterations': 1500, 'learning_rate': 0.03, 'depth': 7, 'l2_leaf_reg': 10, 'bagging_temperature': 3, 'random_strength': 2, 'border_count': 128, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9411272373865781
+OOF AUC: 0.9411204041047324
+
+====================
+Experiment 31/50
+{'iterations': 1500, 'learning_rate': 0.01, 'depth': 5, 'l2_leaf_reg': 1, 'bagging_temperature': 1, 'random_strength': 1, 'border_count': 254, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9405595936950464
+OOF AUC: 0.9405513584958243
+
+====================
+Experiment 32/50
+{'iterations': 500, 'learning_rate': 0.1, 'depth': 8, 'l2_leaf_reg': 5, 'bagging_temperature': 3, 'random_strength': 2, 'border_count': 32, 'auto_class_weights': None, 'rsm': 1.0}
+Mean fold AUC: 0.9400952581681643
+OOF AUC: 0.940086494398734
+
+====================
+Experiment 33/50
+{'iterations': 500, 'learning_rate': 0.1, 'depth': 7, 'l2_leaf_reg': 5, 'bagging_temperature': 0, 'random_strength': 1, 'border_count': 128, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9410756033805869
+OOF AUC: 0.9410686629641247
+
+====================
+Experiment 34/50
+{'iterations': 500, 'learning_rate': 0.05, 'depth': 6, 'l2_leaf_reg': 1, 'bagging_temperature': 1, 'random_strength': 1, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9405760577065323
+OOF AUC: 0.9405670640969532
+
+====================
+Experiment 35/50
+{'iterations': 1500, 'learning_rate': 0.05, 'depth': 5, 'l2_leaf_reg': 1, 'bagging_temperature': 1, 'random_strength': 1, 'border_count': 32, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9402738566231799
+OOF AUC: 0.9402661253278809
+
+====================
+Experiment 36/50
+{'iterations': 2000, 'learning_rate': 0.1, 'depth': 4, 'l2_leaf_reg': 1, 'bagging_temperature': 5, 'random_strength': 0.5, 'border_count': 254, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.9417962040838395
+OOF AUC: 0.9417898076181802
+
+====================
+Experiment 37/50
+{'iterations': 1500, 'learning_rate': 0.1, 'depth': 5, 'l2_leaf_reg': 10, 'bagging_temperature': 3, 'random_strength': 1, 'border_count': 254, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9417555612197056
+OOF AUC: 0.9417493920908814
+
+====================
+Experiment 38/50
+{'iterations': 1500, 'learning_rate': 0.03, 'depth': 8, 'l2_leaf_reg': 5, 'bagging_temperature': 5, 'random_strength': 2, 'border_count': 32, 'auto_class_weights': 'Balanced', 'rsm': 0.9}
+Mean fold AUC: 0.9401731243917346
+OOF AUC: 0.9401649837302057
+
+====================
+Experiment 39/50
+{'iterations': 500, 'learning_rate': 0.03, 'depth': 5, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 1, 'border_count': 32, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9399963164658891
+OOF AUC: 0.9399876777201212
+
+====================
+Experiment 40/50
+{'iterations': 500, 'learning_rate': 0.03, 'depth': 5, 'l2_leaf_reg': 3, 'bagging_temperature': 3, 'random_strength': 0.5, 'border_count': 64, 'auto_class_weights': None, 'rsm': 1.0}
+Mean fold AUC: 0.9403044284882288
+OOF AUC: 0.9402959966618809
+
+====================
+Experiment 41/50
+{'iterations': 1500, 'learning_rate': 0.01, 'depth': 7, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 64, 'auto_class_weights': 'Balanced', 'rsm': 0.9}
+Mean fold AUC: 0.9404183931451785
+OOF AUC: 0.940408521593195
+
+====================
+Experiment 42/50
+{'iterations': 1500, 'learning_rate': 0.01, 'depth': 5, 'l2_leaf_reg': 5, 'bagging_temperature': 3, 'random_strength': 2, 'border_count': 64, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9400492671943439
+OOF AUC: 0.9400406763648529
+
+====================
+Experiment 43/50
+{'iterations': 2000, 'learning_rate': 0.1, 'depth': 5, 'l2_leaf_reg': 1, 'bagging_temperature': 5, 'random_strength': 1, 'border_count': 254, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9417557469561354
+OOF AUC: 0.9417486775690456
+
+====================
+Experiment 44/50
+{'iterations': 1000, 'learning_rate': 0.01, 'depth': 6, 'l2_leaf_reg': 5, 'bagging_temperature': 5, 'random_strength': 0.5, 'border_count': 64, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9401401726517167
+OOF AUC: 0.9401291655186338
+
+====================
+Experiment 45/50
+{'iterations': 1500, 'learning_rate': 0.03, 'depth': 7, 'l2_leaf_reg': 3, 'bagging_temperature': 1, 'random_strength': 1, 'border_count': 32, 'auto_class_weights': 'Balanced', 'rsm': 0.9}
+Mean fold AUC: 0.9402032370703111
+OOF AUC: 0.9401955093132929
+
+====================
+Experiment 46/50
+{'iterations': 500, 'learning_rate': 0.01, 'depth': 8, 'l2_leaf_reg': 5, 'bagging_temperature': 0, 'random_strength': 1, 'border_count': 128, 'auto_class_weights': 'Balanced', 'rsm': 1.0}
+Mean fold AUC: 0.9397924742374357
+OOF AUC: 0.9397814194869641
+
+====================
+Experiment 47/50
+{'iterations': 500, 'learning_rate': 0.05, 'depth': 7, 'l2_leaf_reg': 5, 'bagging_temperature': 5, 'random_strength': 2, 'border_count': 254, 'auto_class_weights': None, 'rsm': 0.9}
+Mean fold AUC: 0.9411661687383799
+OOF AUC: 0.9411575849660793
+
+====================
+Experiment 48/50
+{'iterations': 1000, 'learning_rate': 0.1, 'depth': 6, 'l2_leaf_reg': 1, 'bagging_temperature': 1, 'random_strength': 2, 'border_count': 64, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9406088986066026
+OOF AUC: 0.9406002770036468
+
+====================
+Experiment 49/50
+{'iterations': 500, 'learning_rate': 0.05, 'depth': 5, 'l2_leaf_reg': 5, 'bagging_temperature': 3, 'random_strength': 2, 'border_count': 32, 'auto_class_weights': None, 'rsm': 0.7}
+Mean fold AUC: 0.9401654798281076
+OOF AUC: 0.9401572969880846
+
+====================
+Experiment 50/50
+{'iterations': 2000, 'learning_rate': 0.05, 'depth': 5, 'l2_leaf_reg': 10, 'bagging_temperature': 1, 'random_strength': 0.5, 'border_count': 128, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
+Mean fold AUC: 0.941274778180525
+OOF AUC: 0.9412674432646637
+
+====================
+BEST AUC: 0.9417898076181802
+BEST PARAMETERS:
+{'iterations': 2000, 'learning_rate': 0.1, 'depth': 4, 'l2_leaf_reg': 1, 'bagging_temperature': 5, 'random_strength': 0.5, 'border_count': 254, 'auto_class_weights': 'Balanced', 'rsm': 0.7}
